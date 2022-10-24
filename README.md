@@ -1,1 +1,1 @@
-# Blog_Maze_Tutorial_Series
+# 3D Maze Tutorial Series
